@@ -4,7 +4,7 @@ title: Cats
 sort_by: Name
 categories: ["animals", "nature"]
 resources:
-  - src: alexander-london-mJaD10XeD7w-unsplash.jpg
+  - src: chat.jpg
     title: Brown tabby cat on white stairs by Alexander London
   - src: amber-kipp-75715CVEJhI-unsplash.jpg
     title: Selective focus photography of orange and white cat on brown table by Amber Kipp
